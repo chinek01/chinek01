@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, C#, SQL 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me chienk01[at]gmail.com
 
 <!---
 chinek01/chinek01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
